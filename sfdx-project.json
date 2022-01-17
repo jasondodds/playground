@@ -1,0 +1,12 @@
+{
+  "packageDirectories": [
+    {
+      "path": "sfdx-source",
+      "default": true
+    }
+  ],
+  "name": "personal-dev-org",
+  "namespace": "",
+  "sfdcLoginUrl": "https://login.salesforce.com",
+  "sourceApiVersion": "52.0"
+}
