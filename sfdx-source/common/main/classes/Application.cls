@@ -11,7 +11,7 @@ public class Application
 	public static final fflib_Application.ServiceFactory Service = 
 		new fflib_Application.ServiceFactory( 
 			new Map<Type, Type> {
-					//ILeadsService.class => LeadsServiceImpl.class
+					ILeadsService.class => LeadsServiceImpl.class
 				});
 
 	// Configure and create the SelectorFactory for this Application
